@@ -1,5 +1,5 @@
 # MLFlow Labs
-This repository contains a series of labs exploring MLFlow, a powerful open-source platform for managing the end-to-end machine learning lifecycle. In these labs, we cover various aspects of MLFlow, ranging from ScikitLearn integration to TensorFlow 2.0 (Keras), PySpark, local model serving, and integration with Databricks. The final lab showcases MLFlow applied to a custom dataset for predicting housing prices.
+This repository contains a series of labs exploring MLFlow, a powerful open-source platform for managing the end-to-end machine learning lifecycle. In these labs, we cover various aspects of MLFlow, ranging from ScikitLearn integration to TensorFlow 2.0 (Keras), local model serving, and integration with Databricks. The final lab showcases MLFlow applied to a custom dataset for predicting housing prices.
 
 ## Lab List
 MLFlow - ScikitLearn.ipynb
